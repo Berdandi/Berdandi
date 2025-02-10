@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Berdandi
-- 👀 I’m interested in Web Development, Gaming, Music, Art, MakeUp
-- 🌱 I’m currently learning Angular!
+- 👋 Hi, I’m @Berdandi or Bren Schenkel
+- 👀 I’m interested in Web Development, Gaming, Music, Art
+- 🌱 I’m currently learning Angular and C# .Net!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
